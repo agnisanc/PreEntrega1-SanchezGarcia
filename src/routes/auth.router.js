@@ -1,19 +1,19 @@
 import { Router } from "express";
-import authController from "../controller/auth.controller.js";
-import passport from "passport";
+import { AuthController } from "../controller/auth.controller.js";
+import { authenticate } from "../middlewares/auth.middleware.js";
+import { validate } from "../middlewares/auth.middleware.js."
+import { userDto } from "../dto/user.dto.js"
+import { authDto } from "../dto/auth.dto.js"
+import { generateToken } from "../utils/jwt.js";
+
 
 const router = Router();
 
-router.post("/login", passport.authenticate("login", {session: false, failureRedirect:"/api/auth/login-error"}),
-authController.login
-);
+router.post("/login", validate (authDto), authenticate("login"), AuthController.login);
 
-router.get("/login-error", authController.loginError);
+router.post("/register", validate(userDto), authenticate("register"), AuthController.register);
 
-router.post("/register", authController.register);
+router.get("/current", authenticate("jwt"), AuthController.current);
 
-router.get("/current", passport.authenticate("jwt", { session: false }), authController.current);
-
-router.get("/logout", authController.logout);
 
 export default router;

@@ -1,6 +1,6 @@
 import { Router } from "express";
 import userRoutes from "./users.router.js";
-import productRoutes from "./product.router";
+import productRoutes from "./product.router.js";
 import cartRoutes from "./cart.router.js";
 import authRoutes from "./auth.router.js";
 import { authenticate, authorization } from "../middlewares/auth.middleware.js";

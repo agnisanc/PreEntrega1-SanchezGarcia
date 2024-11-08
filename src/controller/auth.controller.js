@@ -1,4 +1,4 @@
-import { userModel } from "../dao/userModel.js";
+import { userModel } from "../models/user.model.js";
 import { generateToken } from "../utils/jwt.js"
 
 class AuthController {

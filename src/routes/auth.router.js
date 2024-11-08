@@ -1,7 +1,7 @@
 import { Router } from "express";
-import { AuthController } from "../controller/auth.controller.js";
+import  AuthController from "../controller/auth.controller.js";
 import { authenticate } from "../middlewares/auth.middleware.js";
-import { validate } from "../middlewares/auth.middleware.js."
+import { validate } from "../middlewares/validate.middleware.js"
 import { userDto } from "../dto/user.dto.js"
 import { authDto } from "../dto/auth.dto.js"
 import { generateToken } from "../utils/jwt.js";

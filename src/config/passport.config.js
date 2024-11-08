@@ -2,7 +2,7 @@ import passport from "passport";
 import jwt from "passport-jwt";
 import localStrategy from "passport-local";
 import { JWT_SECRET } from "../utils/jwt.js";
-import { userModel } from "../dao/userModel.js";
+import { userModel } from "../models/user.model.js";
 import { verifyPassword } from "../utils/hash.js";
 
 const LocalStrategy = localStrategy.Strategy;

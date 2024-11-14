@@ -8,7 +8,7 @@ import { CartController } from "../controller/cart.controller.js";
 
 const router = Router();
 
-router.get("/:id", CartController.getById);
+router.get("/:id", CartController.getCartById);
 
 router.post("/", validate(cartDto), CartController.create);
 
@@ -16,7 +16,7 @@ router.post("/:id/products", CartController.addProduct);
 
 router.delete("/:id", CartController.delete);
 
-router.delete("/:id/products(:productsId", CartController.deleteProduct);
+router.delete("/:id/products/:productsId", CartController.deleteProduct);
 
 router.delete("/:id/products", CartController.deleteAllProducts);
 

@@ -15,26 +15,25 @@ let path;
 switch (mode) {
     case "development":
     case "dev":
-    path = ".env.development";
-    break;
+        path = ".env.development";
+        break;
 
     case "testing":
     case "test":
-    path = ".env.testing";
-    break;
+        path = ".env.testing";
+        break;
 
     case "production":
     case "prod":
-    path = ".env";
-    break;
+        path = ".env.production";
+        break;
 }
-
-dotenv.config({ path });
 
 dotenv.config();
 
+
 export const config = {
-    PORT: process.env.PORT,
+    PORT: process.env.PORT ,
     MODE: process.env.MODE,
     MONGO_URI: process.env.MONGO_URI,
     JWT_SECRET: process.env.JWT_SECRET,

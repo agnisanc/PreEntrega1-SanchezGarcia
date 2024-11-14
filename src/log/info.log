@@ -1,0 +1,104 @@
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:04:36.716Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:04:36.767Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:05:03.458Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:05:03.495Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:09:11.916Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:09:11.996Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:09:28.057Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:09:28.094Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:24:12.699Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:24:12.752Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:26:40.459Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:26:40.512Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-13T16:26:54.477Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:26:54.532Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: [[ undefined ]] {"timestamp":"2024-11-13T16:29:40.185Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:29:40.235Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: [[ undefined ]] {"timestamp":"2024-11-13T16:32:38.313Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:32:38.376Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: [[ undefined ]] {"timestamp":"2024-11-13T16:33:06.575Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-13T16:33:06.650Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: [[ undefined ]] {"timestamp":"2024-11-14T03:11:37.478Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:11:37.593Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: [[ undefined ]] {"timestamp":"2024-11-14T03:18:18.390Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:18:18.449Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: [[ undefined ]] {"timestamp":"2024-11-14T03:20:10.416Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:20:10.476Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:21:44.531Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:21:44.595Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:22:28.389Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:22:28.463Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:24:21.853Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:24:21.925Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:25:01.082Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:25:01.128Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:29:31.005Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:29:31.073Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:31:41.092Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:31:41.158Z"}
+[34minfo[39m: Server connected in port 8080. Mode server: undefined {"timestamp":"2024-11-14T03:32:16.518Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:32:16.630Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:37:12.676Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:37:12.737Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:37:27.906Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:37:27.969Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:38:13.878Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:38:13.938Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:38:37.399Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:38:37.486Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:39:06.974Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:39:07.048Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:41:22.112Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:41:22.164Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: 8000 {"timestamp":"2024-11-14T03:41:32.317Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:41:32.385Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:41:41.969Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:41:42.038Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:41:50.454Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:41:50.551Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: mongodb://localhost:27017/server {"timestamp":"2024-11-14T03:42:05.642Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:42:05.727Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: JaCaErYs {"timestamp":"2024-11-14T03:42:19.541Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:42:19.609Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:42:28.682Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:42:28.750Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:43:20.860Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:43:20.909Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:43:48.905Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:43:48.988Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:44:03.178Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:44:03.248Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:49:17.571Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:49:17.637Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T03:58:50.608Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T03:58:50.643Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T04:06:08.051Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T04:06:08.112Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T04:58:25.691Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T04:58:25.732Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T05:01:44.060Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:01:44.099Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T05:01:54.228Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:01:54.266Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T05:02:07.662Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:02:07.698Z"}
+[31mfatal[39m: There was an error while trying to conect MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"timestamp":"2024-11-14T05:03:23.354Z"}
+[34minfo[39m: Server connected in port undefined. Mode server: undefined {"timestamp":"2024-11-14T05:03:23.362Z"}
+[31mfatal[39m: There was an error while trying to conect MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"timestamp":"2024-11-14T05:03:42.525Z"}
+[34minfo[39m: Server connected in port undefined. Mode server: undefined {"timestamp":"2024-11-14T05:03:42.531Z"}
+[31mfatal[39m: There was an error while trying to conect MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"timestamp":"2024-11-14T05:04:37.054Z"}
+[34minfo[39m: Server connected in port undefined. Mode server: undefined {"timestamp":"2024-11-14T05:04:37.060Z"}
+[31mfatal[39m: There was an error while trying to conect MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"timestamp":"2024-11-14T05:06:05.090Z"}
+[34minfo[39m: Server connected in port undefined. Mode server: undefined {"timestamp":"2024-11-14T05:06:05.096Z"}
+[31mfatal[39m: There was an error while trying to conect MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"timestamp":"2024-11-14T05:07:05.872Z"}
+[34minfo[39m: Server connected in port undefined. Mode server: undefined {"timestamp":"2024-11-14T05:07:05.879Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T05:07:34.145Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:07:34.185Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T05:07:48.018Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:07:48.056Z"}
+[31mfatal[39m: There was an error while trying to conect MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"timestamp":"2024-11-14T05:09:59.276Z"}
+[34minfo[39m: Server connected in port undefined. Mode server: undefined {"timestamp":"2024-11-14T05:09:59.284Z"}
+[34minfo[39m: Server connected in port 8000. Mode server: undefined {"timestamp":"2024-11-14T05:12:07.884Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:12:07.914Z"}
+[34minfo[39m: Server connected in port 8000. {"timestamp":"2024-11-14T05:15:13.947Z"}
+[34minfo[39m: MongoDB connected {"timestamp":"2024-11-14T05:15:13.984Z"}

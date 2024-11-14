@@ -10,7 +10,8 @@ import errorHandler from './middlewares/errorHandler.middleware.js';
 import { config } from './config/config.js';
 import routes from "./routes/index.router.js"
 
-const PORT = 8080;
+const PORT = config.PORT
+
 
 const app = express();
 
@@ -44,6 +45,6 @@ app.use("*", (req, res) => {
 //Puerto
 
 app.listen(PORT, () => {
-    winstonLogger.info(`Server connected in port ${PORT}. Mode server: ${config.MODE}`);
+    winstonLogger.info(`Server connected in port ${PORT}.`);
 });
 

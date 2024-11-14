@@ -1,4 +1,4 @@
-import winstonLogger from "../utils/winston";
+import winstonLogger from "../utils/winston.js";
 
 function winston(req, res, next) {
     try {

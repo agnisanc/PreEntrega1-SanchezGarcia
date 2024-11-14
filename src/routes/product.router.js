@@ -8,6 +8,6 @@ const router = Router();
 
 router.get("/", ProductController.getAll);
 router.get("/:id", ProductController.getById);
-router.post("/", authenticate("jwt"), authorization(["admin"]), validate(productDto), ProductControllet.create);
+router.post("/", authenticate("jwt"), authorization(["admin"]), validate(productDto), ProductController.create);
 
 export default router;
